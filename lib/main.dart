@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       title: "My Counter App",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Image Örnekleri"),
+          title: Text("Temel Widget Örnekleri"),
         ),
         body: PopupMenuKullanimi(),
       ),
